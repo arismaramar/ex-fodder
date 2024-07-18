@@ -7,7 +7,7 @@
 
 
 # // install
-<pre><code>wget https://t.me/amantubilah</code></pre>
+<pre><code>https://t.me/amantubilah</code></pre>
 
 # // installer script
 085365581599
