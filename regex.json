@@ -4,13 +4,13 @@
 7...0
 8...0
 1...0
-#ANGGUNvpn#
-EXERT_ANGGUNvpn='ANGGUNvpn-CONFIGURATIONS'
+#LUNATIX#
+EXERT_LUNA='LUNATIX-CONFIGURATIONS'
 9._____.00.999
 443
 8880 Backend
 8080 Backend
 2095 Backend
-"${EXERT_ANGGUNvpn}"
+"${EXERT_LUNA}"
 /*Utf*8.
 fix-missed-timeout *x''Backend''
